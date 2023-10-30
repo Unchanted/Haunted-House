@@ -1,6 +1,7 @@
 # Haunted-House
  Welcome to the "Haunted-House" Unity Game Control System repository! A classic snake game where you escape from Haunted house while dodging ghosts
 
+Download the game from "Haunted House download.rar"
 
 # Screenshot
 
